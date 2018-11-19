@@ -1,5 +1,7 @@
-#edaa25
+# edaa25
 
-Multiply polynomials
-RPN Calculator
-Find longest word
+Multiply <b>poly</b>nomials
+
+<b>RPN</b> Calculator
+
+Find longest <b>word</b>
